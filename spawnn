@@ -1,3 +1,2 @@
-_G.LoadingScreen = true
-  ID="ef8b7394-f917-4f17-9605-e1bd117ec956";
-  loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+ID="ef8b7394-f917-4f17-9605-e1bd117ec956";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
